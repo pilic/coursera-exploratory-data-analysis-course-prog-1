@@ -1,5 +1,6 @@
 # coursera-exploratory-data-analysis-course-prog-1
 Assignment 1 for Exploratory Data Analysis
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
